@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "Welcome to GBC",
-    "paragraph": "Embark on a journey of innovation and camaraderie with Grand Blue Club. Join us as we explore the realms of technology, foster creativity, and build a community that transcends boundaries. Discover exciting events, collaborative projects, and a vibrant space. Dive into a world where the sea of possibilities meets the horizon of IT excellence. Are you ready to make waves with Grand Blue Club?"
+    "title": "Welcome to GB Club",
+    "paragraph": "Unlock limitless possibilities. We inspire, achieve, and thrive together."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Grand Blue Club is a thriving community at ISTA dedicated to fostering innovation, collaboration, and skill enhancement among computer science enthusiasts. Led by our passionate PIE teacher, our club serves as a hub for various filiers, providing a platform for students to unleash their creativity, socialize, and improve hard skills.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Skill Enhancement",
+      "Creativity Encouragement",
+      "Teamwork Reinforcement",
+      "Professional Development"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Diverse Activities",
+      "Networking Opportunities",
+      "Teacher-Guided Mentorship",
+      "Inclusive Community"
     ]
   },
   "Gallery": [

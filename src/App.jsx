@@ -25,6 +25,28 @@ const App = () => {
 
   return (
     <div>
+      <div class="background">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
       <Navigation />
       <Header data={landingPageData.Header} />
       {/* <Features data={landingPageData.Features} /> */}
