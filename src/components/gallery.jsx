@@ -7,9 +7,8 @@ export const Gallery = (props) => {
       <div className="container">
         <div className="section-title">
           <h2>Gallery</h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          <p style={{color:"#fff"}}>
+          Discover Moments: A Visual Journey with Grand Blue Club
           </p>
         </div>
         <div className="row">
@@ -24,6 +23,7 @@ export const Gallery = (props) => {
                       title={d.title}
                       largeImage={d.largeImage}
                       smallImage={d.smallImage}
+                      text={d.text}
                     />
                   </div>
                 ))

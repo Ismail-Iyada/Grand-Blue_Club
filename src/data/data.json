@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Welcome to GBC",
+    "paragraph": "Embark on a journey of innovation and camaraderie with Grand Blue Club. Join us as we explore the realms of technology, foster creativity, and build a community that transcends boundaries. Discover exciting events, collaborative projects, and a vibrant space. Dive into a world where the sea of possibilities meets the horizon of IT excellence. Are you ready to make waves with Grand Blue Club?"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -20,141 +20,150 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "event Title",
+      "largeImage": "img/portfolio/aa.jpeg",
+      "smallImage": "img/portfolio/aa.jpeg",
+      "text": "event Descriptionevent Descriptionevent Description"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "event Title",
+      "largeImage": "img/portfolio/ab.jpeg",
+      "smallImage": "img/portfolio/ab.jpeg",
+      "text": "event Descriptionevent Descriptionevent Description"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "event Title",
+      "largeImage": "img/portfolio/ad.jpeg",
+      "smallImage": "img/portfolio/ad.jpeg",
+      "text": "event Descriptionevent Descriptionevent Description"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "event Title",
+      "largeImage": "img/portfolio/qa.jpeg",
+      "smallImage": "img/portfolio/qa.jpeg",
+      "text": "event Descriptionevent Descriptionevent Description"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "event Title",
+      "largeImage": "img/portfolio/aa.jpeg",
+      "smallImage": "img/portfolio/aa.jpeg",
+      "text": "event Descriptionevent Descriptionevent Description"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "event Title",
+      "largeImage": "img/portfolio/ab.jpeg",
+      "smallImage": "img/portfolio/ab.jpeg",
+      "text": "event Descriptionevent Descriptionevent Description"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "event Title",
+      "largeImage": "img/portfolio/ad.jpeg",
+      "smallImage": "img/portfolio/ad.jpeg",
+      "text": "event Descriptionevent Descriptionevent Description"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "event Title",
+      "largeImage": "img/portfolio/qa.jpeg",
+      "smallImage": "img/portfolio/qa.jpeg",
+      "text": "event Descriptionevent Descriptionevent Description"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "event Title",
+      "largeImage": "img/portfolio/aa.jpeg",
+      "smallImage": "img/portfolio/aa.jpeg",
+      "text": "event Descriptionevent Descriptionevent Description"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-code",
+      "name": "Hackathons and Coding Challenges",
+      "text": "Engage in coding competitions, hackathons, and programming challenges to showcase and enhance your computer science skills."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cogs",
+      "name": "Project Realization",
+      "text": "Collaborate on real-world projects within the club, providing members with practical experience and the opportunity to apply their knowledge."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-leanpub",
+      "name": "Tech Workshops and Seminars",
+      "text": "Host workshops and seminars on the latest technologies, trends, and advancements in the field of computer science and information technology."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "name": "Social Bonding Activities",
+      "text": "Foster a sense of community through social events such as watch parties, gaming sessions, and volunteering activities to encourage networking and camaraderie."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-rocket",
+      "name": "Innovation and Creativity Sessions",
+      "text": "Explore creative aspects of technology through brainstorming sessions, design thinking workshops, and innovation challenges."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-briefcase",
+      "name": "Professional Development",
+      "text": "Provide resources and activities for professional development, including resume workshops, career guidance sessions, and networking opportunities with industry professionals."
     }
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "img": "img/testimonials/a1.jpeg",
+      "text": "\"Grand Blue Club has been a game-changer for my coding journey. The hackathons challenged me, the projects inspired me, and the community supported me. It's more than a club; it's a family of tech enthusiasts.\"",
       "name": "John Doe"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/a5.jpeg",
+      "text": "\"The innovation sessions at Grand Blue Club opened my mind to new possibilities. I found a space where creativity thrives, and the collaborative spirit is unmatched. Proud to be a part of this inspiring community.\"",
+      "name": "Jane Smith"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/a5e.jpeg",
+      "text": "\"Project realization at Grand Blue Club allowed me to apply my skills to real-world scenarios. The experience was invaluable, and the supportive environment fueled my passion for technology.\"",
+      "name": "Chris Martinez"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/a65.jpeg",
+      "text": "\"Tech workshops and seminars at Grand Blue Club keep me ahead of the curve. The latest trends, advancements, and a community eager to learn together. It's a place where knowledge never stops growing.\"",
+      "name": "Emily Johnson"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/a1.jpeg",
+      "text": "\"Social bonding activities turned club members into lifelong friends. From gaming sessions to volunteering, Grand Blue Club goes beyond tech. It's a space to connect, have fun, and make lasting memories.\"",
+      "name": "Alex Turner"
     },
     {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/a5.jpeg",
+      "text": "\"Professional development is at the core of Grand Blue Club. The workshops, career guidance, and networking opportunities have been instrumental in shaping my journey in the tech industry.\"",
+      "name": "Sophie Chen"
     }
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
+      "img": "img/team/a.jpeg",
       "name": "John Doe",
       "job": "Director"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/aa.jpeg",
       "name": "Mike Doe",
-      "job": "Senior Designer"
+      "job": "Teacher"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/aaa.jpeg",
       "name": "Jane Doe",
-      "job": "Senior Designer"
+      "job": "Teacher"
     },
     {
-      "img": "img/team/04.jpg",
+      "img": "img/team/a.jpeg",
       "name": "Karen Doe",
-      "job": "Project Manager"
+      "job": "Teacher"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Hay Eddakhla B.P184, N2, Berkane 60300",
+    "phone": "+212 536612789",
+    "email": "istaBerkane@ofppt.ma",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
