@@ -22,56 +22,47 @@
     {
       "title": "Titre de l'événement",
       "largeImage": "https://picsum.photos/id/1053/800",
-      "smallImage": "https://picsum.photos/id/1053/400",
-      "text": "Description de l'événement Description de l'événement Description de l'événement"
+      "smallImage": "https://picsum.photos/id/1053/500/333"
     },
     {
       "title": "Titre de l'événement",
       "largeImage": "https://picsum.photos/id/212/800",
-      "smallImage": "https://picsum.photos/id/212/400",
-      "text": "Description de l'événement Description de l'événement Description de l'événement"
+      "smallImage": "https://picsum.photos/id/212/500/333"
     },
     {
       "title": "Titre de l'événement",
       "largeImage": "https://picsum.photos/id/600/800",
-      "smallImage": "https://picsum.photos/id/600/400",
-      "text": "Description de l'événement Description de l'événement Description de l'événement"
+      "smallImage": "https://picsum.photos/id/600/500/333"
     },
     {
       "title": "Titre de l'événement",
       "largeImage": "https://picsum.photos/id/824/800",
-      "smallImage": "https://picsum.photos/id/824/400",
-      "text": "Description de l'événement Description de l'événement Description de l'événement"
+      "smallImage": "https://picsum.photos/id/824/500/333"
     },
     {
       "title": "Titre de l'événement",
       "largeImage": "https://picsum.photos/id/701/800",
-      "smallImage": "https://picsum.photos/id/701/400",
-      "text": "Description de l'événement Description de l'événement Description de l'événement"
+      "smallImage": "https://picsum.photos/id/701/500/333"
     },
     {
       "title": "Titre de l'événement",
       "largeImage": "https://picsum.photos/id/638/800",
-      "smallImage": "https://picsum.photos/id/638/400",
-      "text": "Description de l'événement Description de l'événement Description de l'événement"
+      "smallImage": "https://picsum.photos/id/638/500/333"
     },
     {
       "title": "Titre de l'événement",
       "largeImage": "https://picsum.photos/id/362/800",
-      "smallImage": "https://picsum.photos/id/362/400",
-      "text": "Description de l'événement Description de l'événement Description de l'événement"
+      "smallImage": "https://picsum.photos/id/362/500/333"
     },
     {
       "title": "Titre de l'événement",
       "largeImage": "https://picsum.photos/id/32/800",
-      "smallImage": "https://picsum.photos/id/32/400",
-      "text": "Description de l'événement Description de l'événement Description de l'événement"
+      "smallImage": "https://picsum.photos/id/32/500/333"
     },
     {
       "title": "Titre de l'événement",
       "largeImage": "https://picsum.photos/800",
-      "smallImage": "https://picsum.photos/400",
-      "text": "Description de l'événement Description de l'événement Description de l'événement"
+      "smallImage": "https://picsum.photos/500/333"
     }
   ],
   "Services": [
@@ -109,12 +100,12 @@
   "Testimonials": [
     {
       "img": "img/testimonials/a1.jpeg",
-      "text": "\"Le Grand Blue Club a été un élément déterminant dans mon parcours en programmation. Les hackathons m'ont challengé, les projets m'ont inspiré, et la communauté m'a soutenu. Ce n'est pas juste un club ; c'est une famille d'enthousiastes de la technologie.\"",
+      "text": "\"Le Grand Blue Club a été un élément déterminant dans mon parcours en programmation. Les hackathons m'ont challengé, les projets m'ont inspiré, et la communauté m'a soutenu.\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/a5.jpeg",
-      "text": "\"Les sessions d'innovation au Grand Blue Club ont ouvert mon esprit à de nouvelles possibilités. J'ai trouvé un espace où la créativité prospère, et l'esprit collaboratif est inégalé. Fier de faire partie de cette communauté inspirante.\"",
+      "text": "\"Les sessions d'innovation au Grand Blue Club ont ouvert mon esprit à de nouvelles possibilités. J'ai trouvé un espace où la créativité prospère, et l'esprit collaboratif est inégalé.\"",
       "name": "Jane Smith"
     },
     {

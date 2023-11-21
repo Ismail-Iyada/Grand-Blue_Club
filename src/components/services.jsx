@@ -5,9 +5,15 @@ export const Services = (props) => {
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Our Activities</h2>
-          <p>
+          {/* <h2>Our Activities</h2> */}
+          <h2>Nos Activités</h2>
+          {/* <p>
           Empower your journey with Grand Blue Club: where coding meets collaboration, tech innovation thrives, and professional development unfolds.
+          </p> */}
+          <p>
+            Autonomisez votre parcours avec le Grand Blue Club : là où le codage
+            rencontre la collaboration, l'innovation technologique prospère et
+            le développement professionnel se déploie.
           </p>
         </div>
         <div className="row">

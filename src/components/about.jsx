@@ -41,11 +41,13 @@ export const About = (props) => {
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
-              <h2>About Us</h2>
+              {/* <h2>About Us</h2> */}
+              <h2>À propos</h2>
               <p style={{ color: "#44A5E9" }}>
                 {props.data ? props.data.paragraph : "loading..."}
               </p>
-              <h3>Why Choose Us?</h3>
+              {/* <h3>Why Choose Us?</h3> */}
+              <h3>Pourquoi nous choisir ?</h3>
               <div className="list-style" style={{ color: "#44A5E9" }}>
                 <div className="col-lg-6 col-sm-6 col-xs-12">
                   <ul>
