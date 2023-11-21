@@ -428,7 +428,7 @@ a:focus,
   -o-background-size: cover;
 }
 .intro .overlay {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(0, 35, 53, 0.1);
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
@@ -449,7 +449,7 @@ a:focus,
   font-weight: 300;
   line-height: 30px;
   margin: 0 auto;
-  margin-bottom: 60px;
+  margin-bottom: 200px;
 }
 header .intro-text {
   height: 100vh;
