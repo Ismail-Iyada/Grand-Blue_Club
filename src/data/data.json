@@ -21,56 +21,56 @@
   "Gallery": [
     {
       "title": "event Title",
-      "largeImage": "img/portfolio/aa.jpeg",
-      "smallImage": "img/portfolio/aa.jpeg",
+      "largeImage": "https://picsum.photos/id/1053/800",
+      "smallImage": "https://picsum.photos/id/1053/400",
       "text": "event Descriptionevent Descriptionevent Description"
     },
     {
       "title": "event Title",
-      "largeImage": "img/portfolio/ab.jpeg",
-      "smallImage": "img/portfolio/ab.jpeg",
+      "largeImage": "https://picsum.photos/id/212/800",
+      "smallImage": "https://picsum.photos/id/212/400",
       "text": "event Descriptionevent Descriptionevent Description"
     },
     {
       "title": "event Title",
-      "largeImage": "img/portfolio/ad.jpeg",
-      "smallImage": "img/portfolio/ad.jpeg",
+      "largeImage": "https://picsum.photos/id/600/800",
+      "smallImage": "https://picsum.photos/id/600/400",
       "text": "event Descriptionevent Descriptionevent Description"
     },
     {
       "title": "event Title",
-      "largeImage": "img/portfolio/qa.jpeg",
-      "smallImage": "img/portfolio/qa.jpeg",
+      "largeImage": "https://picsum.photos/id/824/800",
+      "smallImage": "https://picsum.photos/id/824/400",
       "text": "event Descriptionevent Descriptionevent Description"
     },
     {
       "title": "event Title",
-      "largeImage": "img/portfolio/aa.jpeg",
-      "smallImage": "img/portfolio/aa.jpeg",
+      "largeImage": "https://picsum.photos/id/701/800",
+      "smallImage": "https://picsum.photos/id/701/400",
       "text": "event Descriptionevent Descriptionevent Description"
     },
     {
       "title": "event Title",
-      "largeImage": "img/portfolio/ab.jpeg",
-      "smallImage": "img/portfolio/ab.jpeg",
+      "largeImage": "https://picsum.photos/id/638/800",
+      "smallImage": "https://picsum.photos/id/638/400",
       "text": "event Descriptionevent Descriptionevent Description"
     },
     {
       "title": "event Title",
-      "largeImage": "img/portfolio/ad.jpeg",
-      "smallImage": "img/portfolio/ad.jpeg",
+      "largeImage": "https://picsum.photos/id/362/800",
+      "smallImage": "https://picsum.photos/id/362/400",
       "text": "event Descriptionevent Descriptionevent Description"
     },
     {
       "title": "event Title",
-      "largeImage": "img/portfolio/qa.jpeg",
-      "smallImage": "img/portfolio/qa.jpeg",
+      "largeImage": "https://picsum.photos/id/32/800",
+      "smallImage": "https://picsum.photos/id/32/400",
       "text": "event Descriptionevent Descriptionevent Description"
     },
     {
       "title": "event Title",
-      "largeImage": "img/portfolio/aa.jpeg",
-      "smallImage": "img/portfolio/aa.jpeg",
+      "largeImage": "https://picsum.photos/800",
+      "smallImage": "https://picsum.photos/400",
       "text": "event Descriptionevent Descriptionevent Description"
     }
   ],
