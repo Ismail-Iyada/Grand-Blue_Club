@@ -1,0 +1,193 @@
+{
+  "Header": {
+    "title": "Bienvenue au GB Club",
+    "paragraph": "Débloquez des possibilités illimitées. Nous inspirons, réalisons et prospérons ensemble."
+  },
+  "About": {
+    "paragraph": "Le Grand Blue Club est une communauté florissante à l'ISTA dédiée à la promotion de l'innovation, de la collaboration et de l'amélioration des compétences parmi les passionnés d'informatique. Sous la direction de notre enseignant PIE passionné, notre club sert de centre pour divers filières, offrant une plateforme aux étudiants pour libérer leur créativité, socialiser et améliorer leurs compétences techniques.",
+    "Why": [
+      "Amélioration des compétences",
+      "Encouragement de la créativité",
+      "Renforcement de l'esprit d'équipe",
+      "Développement professionnel"
+    ],
+    "Why2": [
+      "Activités diversifiées",
+      "Opportunités de réseautage",
+      "Mentorat guidé par l'enseignant",
+      "Communauté inclusive"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Titre de l'événement",
+      "largeImage": "https://picsum.photos/id/1053/800",
+      "smallImage": "https://picsum.photos/id/1053/400",
+      "text": "Description de l'événement Description de l'événement Description de l'événement"
+    },
+    {
+      "title": "Titre de l'événement",
+      "largeImage": "https://picsum.photos/id/212/800",
+      "smallImage": "https://picsum.photos/id/212/400",
+      "text": "Description de l'événement Description de l'événement Description de l'événement"
+    },
+    {
+      "title": "Titre de l'événement",
+      "largeImage": "https://picsum.photos/id/600/800",
+      "smallImage": "https://picsum.photos/id/600/400",
+      "text": "Description de l'événement Description de l'événement Description de l'événement"
+    },
+    {
+      "title": "Titre de l'événement",
+      "largeImage": "https://picsum.photos/id/824/800",
+      "smallImage": "https://picsum.photos/id/824/400",
+      "text": "Description de l'événement Description de l'événement Description de l'événement"
+    },
+    {
+      "title": "Titre de l'événement",
+      "largeImage": "https://picsum.photos/id/701/800",
+      "smallImage": "https://picsum.photos/id/701/400",
+      "text": "Description de l'événement Description de l'événement Description de l'événement"
+    },
+    {
+      "title": "Titre de l'événement",
+      "largeImage": "https://picsum.photos/id/638/800",
+      "smallImage": "https://picsum.photos/id/638/400",
+      "text": "Description de l'événement Description de l'événement Description de l'événement"
+    },
+    {
+      "title": "Titre de l'événement",
+      "largeImage": "https://picsum.photos/id/362/800",
+      "smallImage": "https://picsum.photos/id/362/400",
+      "text": "Description de l'événement Description de l'événement Description de l'événement"
+    },
+    {
+      "title": "Titre de l'événement",
+      "largeImage": "https://picsum.photos/id/32/800",
+      "smallImage": "https://picsum.photos/id/32/400",
+      "text": "Description de l'événement Description de l'événement Description de l'événement"
+    },
+    {
+      "title": "Titre de l'événement",
+      "largeImage": "https://picsum.photos/800",
+      "smallImage": "https://picsum.photos/400",
+      "text": "Description de l'événement Description de l'événement Description de l'événement"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "Hackathons et Défis de Codage",
+      "text": "Participez à des compétitions de codage, des hackathons et des défis de programmation pour présenter et améliorer vos compétences en informatique."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "Réalisation de Projets",
+      "text": "Collaborez sur des projets du monde réel au sein du club, offrant aux membres une expérience pratique et l'opportunité d'appliquer leurs connaissances."
+    },
+    {
+      "icon": "fa fa-leanpub",
+      "name": "Ateliers Techniques et Séminaires",
+      "text": "Organisez des ateliers et des séminaires sur les dernières technologies, tendances et avancées dans le domaine de l'informatique et de la technologie de l'information."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Activités de Liaison Sociale",
+      "text": "Favorisez un sentiment de communauté à travers des événements sociaux tels que des soirées cinéma, des sessions de jeu et des activités bénévoles pour encourager le réseautage et la camaraderie."
+    },
+    {
+      "icon": "fa fa-rocket",
+      "name": "Sessions d'Innovation et de Créativité",
+      "text": "Explorez les aspects créatifs de la technologie à travers des sessions de brainstorming, des ateliers de design thinking et des défis d'innovation."
+    },
+    {
+      "icon": "fa fa-briefcase",
+      "name": "Développement Professionnel",
+      "text": "Fournissez des ressources et des activités pour le développement professionnel, y compris des ateliers sur les CV, des sessions d'orientation professionnelle et des opportunités de réseautage avec des professionnels de l'industrie."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/a1.jpeg",
+      "text": "\"Le Grand Blue Club a été un élément déterminant dans mon parcours en programmation. Les hackathons m'ont challengé, les projets m'ont inspiré, et la communauté m'a soutenu. Ce n'est pas juste un club ; c'est une famille d'enthousiastes de la technologie.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/a5.jpeg",
+      "text": "\"Les sessions d'innovation au Grand Blue Club ont ouvert mon esprit à de nouvelles possibilités. J'ai trouvé un espace où la créativité prospère, et l'esprit collaboratif est inégalé. Fier de faire partie de cette communauté inspirante.\"",
+      "name": "Jane Smith"
+    },
+    {
+      "img": "img/testimonials/a5e.jpeg",
+      "text": "\"La réalisation de projets au Grand Blue Club m'a permis d'appliquer mes compétences à des scénarios du monde réel. L'expérience a été inestimable, et l'environnement de soutien a alimenté ma passion pour la technologie.\"",
+      "name": "Chris Martinez"
+    },
+    {
+      "img": "img/testimonials/a65.jpeg",
+      "text": "\"Les ateliers techniques et les séminaires au Grand Blue Club me maintiennent à la pointe. Les dernières tendances, avancées et une communauté désireuse d'apprendre ensemble. C'est un endroit où la connaissance ne cesse jamais de croître.\"",
+      "name": "Emily Johnson"
+    },
+    {
+      "img": "img/testimonials/a1.jpeg",
+      "text": "\"Les activités de liaison sociale ont transformé les membres du club en amis pour la vie. Des sessions de jeu bénévoles, le Grand Blue Club va au-delà de la technologie. C'est un espace pour se connecter, s'amuser et créer des souvenirs durables.\"",
+      "name": "Alex Turner"
+    },
+    {
+      "img": "img/testimonials/a5.jpeg",
+      "text": "\"Le développement professionnel est au cœur du Grand Blue Club. Les ateliers, l'orientation professionnelle et les opportunités de réseautage ont été essentiels pour façonner mon parcours dans l'industrie technologique.\"",
+      "name": "Sophie Chen"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/a.jpeg",
+      "name": "John Doe",
+      "job": "Directeur"
+    },
+    {
+      "img": "img/team/aa.jpeg",
+      "name": "Mike Doe",
+      "job": "Enseignant"
+    },
+    {
+      "img": "img/team/aaa.jpeg",
+      "name": "Jane Doe",
+      "job": "Enseignante"
+    },
+    {
+      "img": "img/team/a.jpeg",
+      "name": "Karen Doe",
+      "job": "Enseignante"
+    }
+  ],
+  "Contact": {
+    "address": "Hay Eddakhla B.P184, N2, Berkane 60300",
+    "phone": "+212 536612789",
+    "email": "istaBerkane@ofppt.ma",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
