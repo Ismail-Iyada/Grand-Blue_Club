@@ -5,10 +5,10 @@ export const Team = (props) => {
     <div id="team" className="text-center">
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
-          <h2>Meet the Team</h2>
+          <h2>Meet the Creators</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Discover the masterminds behind Grand Blue Club, the folks who bring
+            innovation and excitement to life.
           </p>
         </div>
         <div id="row">

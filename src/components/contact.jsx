@@ -84,6 +84,7 @@ export const Contact = (props) => {
                     placeholder="Message"
                     required
                     onChange={handleChange}
+                    style={{resize:"vertical"}}
                   ></textarea>
                   <p className="help-block text-danger"></p>
                 </div>
